@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Gray background */
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.blog-post {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.blog-title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.blog-date {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.blog-content {
+    line-height: 1.6;
+}
+
+.blog-content ul,
+.blog-content ol {
+    margin-left: 20px;
+}
